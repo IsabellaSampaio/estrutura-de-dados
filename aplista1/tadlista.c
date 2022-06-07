@@ -3,7 +3,7 @@
  Versão:
  Autor:
  S.O.:
- Última alteração: 31/05/2022
+ Última alteração: 05/06/2022
 ********************************************************/
 
 #include "tadlista.h"

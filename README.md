@@ -1,4 +1,4 @@
-#**Coletânea de estrutura de dados (em C)**
+**Coletânea de estrutura de dados (em C)**
 
 ### Aplicação de conceitos estudados em estrutura de dados
 

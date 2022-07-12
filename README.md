@@ -1,8 +1,8 @@
-# **Coletânea de estrutura de dados (em C)**
+#**Coletânea de estrutura de dados (em C)**
 
 ### Aplicação de conceitos estudados em estrutura de dados
 
-# Conceitos estudados:
+## Conceitos estudados:
 - Structs
 - Arrays e porque é importante entender vetores em c
 - Ponteiros 

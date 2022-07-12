@@ -1,6 +1,6 @@
 # ***Coletânea de estrutura de dados (em C)***
 
-### Aplicação de conceitos estudados em estrutura de dados
+### Aplicação, por meio de exercícios e alguns códigos de exemplo, de conceitos estudados em estrutura de dados
 
 ## Conceitos estudados:
 - Structs

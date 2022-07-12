@@ -5,6 +5,7 @@
 ## Conceitos estudados:
 - Structs
 - Arrays e porque é importante entender vetores em c
+- Manipulação de arquivos  
 - Ponteiros 
 - Structs autoreferenciadas e alocação de memória com malloc e sizeof
 - Linked lists 
